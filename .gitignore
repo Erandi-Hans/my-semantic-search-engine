@@ -1,0 +1,5 @@
+# Ignore user data and models
+pdfs/
+__pycache__/
+*.pdf
+.env
